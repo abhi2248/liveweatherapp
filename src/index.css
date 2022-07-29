@@ -1,0 +1,44 @@
+ *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* .paragraph{
+     color:antiquewhite;
+     text-align: center;
+     text-transform: capitalize;
+     font-weight:bold ;
+}
+.img_div img{
+    width:210px;
+    height:185px;
+    margin:auto;
+    
+    
+}
+.img_div{
+    display:flex;
+    justify-content: center;
+} */
+div{
+    height:100vh;
+    width:100%;
+    background-color: aquamarine;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    color:white;
+    background: transparent;
+}
+button{
+    padding:12px 20px;
+    background:aquamarine;
+    color:white;
+    border:2px rgb(143, 27, 27);
+    border-radius: 5px;
+    cursor: pointer;
+    outline:none;
+} 
