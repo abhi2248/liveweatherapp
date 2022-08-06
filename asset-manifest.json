@@ -1,0 +1,13 @@
+{
+  "main.css": "/liveweatherapp/static/css/main.bfeea287.chunk.css",
+  "main.js": "/liveweatherapp/static/js/main.bc1fd58e.chunk.js",
+  "main.js.map": "/liveweatherapp/static/js/main.bc1fd58e.chunk.js.map",
+  "static/js/1.780666e4.chunk.js": "/liveweatherapp/static/js/1.780666e4.chunk.js",
+  "static/js/1.780666e4.chunk.js.map": "/liveweatherapp/static/js/1.780666e4.chunk.js.map",
+  "runtime~main.js": "/liveweatherapp/static/js/runtime~main.ea930205.js",
+  "runtime~main.js.map": "/liveweatherapp/static/js/runtime~main.ea930205.js.map",
+  "static/css/main.bfeea287.chunk.css.map": "/liveweatherapp/static/css/main.bfeea287.chunk.css.map",
+  "index.html": "/liveweatherapp/index.html",
+  "precache-manifest.595e7ea0c0a2b77cb27a12a9d446ef37.js": "/liveweatherapp/precache-manifest.595e7ea0c0a2b77cb27a12a9d446ef37.js",
+  "service-worker.js": "/liveweatherapp/service-worker.js"
+}
